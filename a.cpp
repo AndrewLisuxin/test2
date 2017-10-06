@@ -2,5 +2,6 @@ int main() {
 	return 0;
 }
 
-void b() {}
+void b() {
+}
 void a() {}

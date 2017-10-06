@@ -1,7 +1,10 @@
 int main() {
 	return 0;
 }
-
-void b() {
+void a() {
+1
+2
+3
+4
+5
 }
-void a() {}
